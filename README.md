@@ -10,7 +10,6 @@
 <h3 align="center">From the fields to the screen: An agricultural engineer's journey into full-stack web development.</h3>
 <img align="right" alt="Programmer" width=300px src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExODc0MTI1MDdjYjAwN2M2YzA1YWRiMDkyZjYxMjhlM2EyOWVlMDhmNSZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif"
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hussein-turfah&label=Profile%20views&color=0e75b6&style=flat" alt="hussein-turfah" /> </p>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hussein-turfah&label=Profile%20views&color=0e75b6&style=flat" alt="hussein-turfah" /> </p>
 
 <p align="left"> <a href="https://twitter.com/husseinturfah" target="blank"><img src="https://img.shields.io/twitter/follow/husseinturfah?logo=twitter&style=for-the-badge" alt="husseinturfah" /></a> </p>
 
