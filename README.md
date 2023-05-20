@@ -9,9 +9,9 @@
 
 <h1 align="center">Hi 👋, I'm Hussein Turfah</h1>
 <h3 align="center">From the fields to the screen: An agricultural engineer's journey into full-stack web development.</h3>
-<img align="right" alt="Programmer" width=300px src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExODc0MTI1MDdjYjAwN2M2YzA1YWRiMDkyZjYxMjhlM2EyOWVlMDhmNSZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hussein-turfah&label=Profile%20Views&color=ca16de&style=plastic" alt="hussein-turfah" /> </p>
+<img align="right" alt="Programmer" width=300px src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExODc0MTI1MDdjYjAwN2M2YzA1YWRiMDkyZjYxMjhlM2EyOWVlMDhmNSZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hussein-turfah" alt="hussein-turfah" /></a> </p>
 
