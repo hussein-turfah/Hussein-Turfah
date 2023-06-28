@@ -15,6 +15,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hussein-turfah" alt="hussein-turfah" /></a> </p>
 
+<br />
+<br />
+
 - 🔭 I’m currently working on [FarmDuino](https://github.com/hussein-turfah/FarmDuino)
 
 - 🌱 I’m currently learning **Full Stack Web Development**
