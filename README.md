@@ -2,7 +2,7 @@
   max-width: 600px;
   margin: 0 auto;
   text-align: center;">
-  <img src="https://lh3.googleusercontent.com/pw/AMWts8BkNTyb4xtIuNoaC6brQ7H3Rme7yrHZyqD64TkERoZDhPLSqBbMOUylDSLx4iLJPm4HublMDyOCXC2Jg6OPcggeeEn4pEpbwkiQQ3ys96o3T8QqPnOLWai99dX969ZrPJ5vJabi5DDeajjgdZEoenI=w600-h200-s-no" alt="My Banner" style="width: 100%;">
+<!--   <img src="https://lh3.googleusercontent.com/pw/AMWts8BkNTyb4xtIuNoaC6brQ7H3Rme7yrHZyqD64TkERoZDhPLSqBbMOUylDSLx4iLJPm4HublMDyOCXC2Jg6OPcggeeEn4pEpbwkiQQ3ys96o3T8QqPnOLWai99dX969ZrPJ5vJabi5DDeajjgdZEoenI=w600-h200-s-no" alt="My Banner" style="width: 100%;"> -->
 </div>
 
 
