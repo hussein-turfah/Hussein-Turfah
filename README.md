@@ -25,7 +25,7 @@
 
 - 👨‍💻 All of my projects are available at [my GitHub account](https://github.com/hussein-turfah)
 
-- 💬 Ask me about **Next.js, Redux, Node.js Laravel, React.js, Arduino and Electron.js**
+- 💬 Ask me about **Next.js, Node.js Laravel, React.js, Arduino and Electron.js**
 
 - 📫 Please feel free to reach me at **husseinturfah299@gmail.com**
 
