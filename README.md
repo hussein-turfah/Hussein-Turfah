@@ -25,7 +25,7 @@
 
 - 🌱 I’m currently learning **Full Stack Web Development**
 
-- 👨‍💻 All of my projects are available at [my GitHub account](https://github.com/hussein-turfah)
+- 👨‍💻 All of my projects are available at [my GitHub account](https://github.com/hussein-turfah/?tab=repositories)
 
 - 💬 Ask me about **Next.js, Node.js Laravel, React.js, Arduino and Electron.js**
 
