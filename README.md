@@ -2,9 +2,7 @@
 <h3 align="center">From the fields to the screen: An agricultural engineer's journey into full-stack web development</h3>
 
 <p align="center">
-  <a href="https://user-badge.committers.top/lebanon_private/hussein-turfah">
-    <img src="https://user-badge.committers.top/lebanon_private/hussein-turfah.svg" alt="Top Committer Badge" />
-  </a>
+  <a href="https://user-badge.committers.top/lebanon_private/hussein-turfah"><img src="https://user-badge.committers.top/lebanon_private/hussein-turfah.svg" alt="Top Committer Badge" /></a>
   <img src="https://komarev.com/ghpvc/?username=hussein-turfah&label=Profile%20Views&color=ca16de&style=flat" alt="Profile Views" />
 </p>
 
